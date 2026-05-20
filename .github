@@ -1,1 +1,4 @@
 git submodule add https://github.com path/to/folder
+git add .gitmodules path/to/folder
+git commit -m "Added external submodule repository"
+git push origin main
